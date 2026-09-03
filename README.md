@@ -69,7 +69,7 @@ digital-bank-dwh/
 ├── database.db
 ├── analysis.ipynb
 └── ...
-
+```
 analysis.ipynb — подготовка данных, SQL-анализ и расчёт метрик.
 
 database.db — SQLite-база с подготовленными таблицами.
